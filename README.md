@@ -1,4 +1,3 @@
-# 💫 About Me
 
 Hi there! I'm **Sarmistha Malik**, a QA Automation Engineer and AI/LLM Test Engineer with 3+ years of experience in building robust automation frameworks and validating intelligent applications.
 
